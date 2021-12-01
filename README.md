@@ -106,4 +106,4 @@ Project Link: [https://github.com/daibeal/cpa-entregable](https://github.com/dai
 [license-url]: https://github.com/daibeal/cpa-entregable/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daibeal/
-[product-screenshot]:https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/2021_059_Supercomputer-des-KIT-einer-der-15-schnellsten-in-Europa_72dpi.jpeg
+[product-screenshot]:https://nordicapis.com/wp-content/uploads/cloud-database.jpg
