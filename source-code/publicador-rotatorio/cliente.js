@@ -1,4 +1,4 @@
-const zmq = require('zmq');
+const zmq = require('zeromq');
 let sub = zmq.socket('sub');
 
 sub.connect('tcp://127.0.0.1:8005');

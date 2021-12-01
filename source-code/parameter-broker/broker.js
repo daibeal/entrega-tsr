@@ -27,7 +27,6 @@
  * @since  2021-12-01
  */
 
-const zqm = require('zmq')
 const zmq = require('zeromq');
 let sc = zmq.socket('router'); // Frontend
 let sw = zmq.socket('router'); // Backend

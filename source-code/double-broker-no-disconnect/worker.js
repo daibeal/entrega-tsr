@@ -1,4 +1,4 @@
-const zmq = require('zmq')
+const zmq = require('zeromq')
 let req = zmq.socket('req') 
 req.identity=process.argv[3] 
 req.connect(process.argv[2]) 

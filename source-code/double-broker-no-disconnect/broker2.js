@@ -1,4 +1,4 @@
-const zmq = require('zmq')
+const zmq = require('zeromq')
 let workers = [], answeredReq={}
 let total = 0
 let sw = zmq.socket('router') // broker1 
