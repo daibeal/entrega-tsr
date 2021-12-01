@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/daibeal/cpa-entregable/tree-save/master/README.md">
+  <a href="https://github.com/daibeal/entrega-tsr/blob/master/README.md">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/1200px-Circle-icons-computer.svg.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -52,7 +52,7 @@
 
 ## Our project
 
-[![Product Name Screen Shot][product-screenshot]](https://www.andresbenites.es)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/daibeal/entrega-tsr)
 
 <!-- LICENSE -->
 
@@ -68,7 +68,7 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 Dairon Andrés Benites Aldaz - [@daibeal26](https://twitter.com/daibeal26) - daibeal@upv.edu.es <br>
 
-Project Link: [https://github.com/daibeal/cpa-entregable](https://github.com/daibeal/cpa-entregable)
+Project Link: [https://github.com/daibeal/entrega-tsr](https://github.com/daibeal/cpa-entregable)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
