@@ -1,4 +1,4 @@
-const zmq = require('zmq')
+const zmq = require('zeromq')
 let dela = zmq.socket('dealer') 
 dela.identity=process.argv[3] 
 dela.connect(process.argv[2]) 

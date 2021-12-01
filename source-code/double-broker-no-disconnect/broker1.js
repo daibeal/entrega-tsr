@@ -1,4 +1,4 @@
-const zmq = require('zmq')
+const zmq = require('zeromq')
 let cli=[], req=[]
 let total = 0, w = 0
 let sc = zmq.socket('router') // frontend 
