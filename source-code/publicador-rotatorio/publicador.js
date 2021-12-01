@@ -1,4 +1,4 @@
-const zmq = require('zeromq');
+const zmq = require('zmq');
 let pub = zmq.socket('pub');
 
 let port = process.argv[2] | 8005;
