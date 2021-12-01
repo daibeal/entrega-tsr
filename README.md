@@ -1,10 +1,8 @@
 <div id="top"></div>
 
-
 <!-- PROJECT SHIELDS -->
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -23,8 +21,6 @@
     <br />
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -52,49 +48,33 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## Our project
 
-<bkr>
 [![Product Name Screen Shot][product-screenshot]](https://www.andresbenites.es)
 
-</bkr>
-
-
-
-
-
-
-
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Dairon Andrés Benites Aldaz - [@daibeal26](https://twitter.com/daibeal26) - daibeal@upv.edu.es <br>
-
 
 Project Link: [https://github.com/daibeal/cpa-entregable](https://github.com/daibeal/cpa-entregable)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -107,4 +87,4 @@ Project Link: [https://github.com/daibeal/cpa-entregable](https://github.com/dai
 [license-url]: https://github.com/daibeal/cpa-entregable/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daibeal/
-[product-screenshot]:https://nordicapis.com/wp-content/uploads/cloud-database.jpg
+[product-screenshot]: https://nordicapis.com/wp-content/uploads/cloud-database.jpg
