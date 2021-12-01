@@ -22,7 +22,7 @@
  *
  *
  * @link   https://github.com/daibeal/entrega-tsr
- * @file   cliente.js
+ * @file   worker.js
  * @author Dairon Andrés Benites Aldaz
  * @since  2021-12-01
  */
@@ -30,17 +30,17 @@
  const zmq = require('zeromq');
  let req = zmq.socket('req');
  
- const frontendURL = process.argv[2];
- const idCliente = process.argv[3];
- const txtPeticion = process.argv[4];
+ const backendURL = process.argv[2];
+ const idWorker = process.argv[3];
+ const txtRespuesta = process.argv[4];
  
- req.connect(frontendURL);
- req.identity = idCliente;
+ req.identity = idWorker;
+ req.connect(backendURL);
  
- 
- req.on('message', (msg) => {
-     console.log('resp: ' + msg);
+ req.on('message', (c, sep, msg) => {
+     setTimeout(() => {
+         req.send([c, '', txtRespuesta]);
+     }, 1000);
  });
  
- req.send(txtPeticion);
- console.log(idCliente + ' ' + txtPeticion);
+ req.send(['', '', '']);
